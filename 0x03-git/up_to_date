@@ -1,0 +1,5 @@
+git pull upstream main
+git add 0x03-git
+git commit -m "How to be up to date in git"
+git push -u origin main
+pull request
